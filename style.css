@@ -275,12 +275,14 @@
     width: 0px;
     margin: 20px;
     
+   
     
 
 }
 .filter{
     width: 80px;
     height: 48px;
+    padding-left: 10px;
     background-color: white;
     border: 1px solid lightgray;
     border-radius: 12px;
@@ -313,11 +315,9 @@
     text-align: center;
 }
 .txt1{
-    margin-right: -5px;
-    position: absolute;
-    left:27px;
-    bottom: 13px;
-    font-size: 13px;
+    padding-left: 18px;
+    font-size: 12px;
+    font-weight: 600;
 }
 .logo2{
     position: absolute;
